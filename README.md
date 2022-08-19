@@ -3,6 +3,7 @@ Repositorio aulas e desafios módulo de docker Fullcycle
 
 - <b>Desafio 1:</b>
   - Rodar comando `docker run giandkhub/golang`
+  - Link dockerhub: https://hub.docker.com/repository/docker/giandkhub/golang
 
 - <b>Desafio 2:</b>
   - Rodar comando `docker-compose up -d --build`
